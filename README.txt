@@ -1,4 +1,4 @@
-Description du projet
+Description du projet du lundi 12 aout 2019
 ------------------------
 Cet exercice a pour objectif de mettre en pratique les notions que vous avez acquises dans les deux premières parties de ce cours sur Git et Github.
 
